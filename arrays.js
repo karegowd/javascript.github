@@ -170,5 +170,5 @@ for (let i = 0; i < minLength; i++) {
 // Append the remaining elements from the longer array, if any
 arr58 = arr57.concat(arr55.slice(minLength), arr56.slice(minLength));
 
-console.log(arr58);
+console.log(arr58);//
 

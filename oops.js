@@ -9,7 +9,7 @@
 //polymorphism
 
 
-// 1 .Encapsulation  =it means binding the data between the methods 
+/// 1 .Encapsulation  =it means binding the data between the methods 
 
 // class A {
 
