@@ -107,7 +107,7 @@ console.log("A+")
 
 console.log(!(6>5))
 
-//Assiginment operators
+///Assiginment operators
 
 number1 =30
 

@@ -56,7 +56,7 @@ else if (marks > 60 && marks <=70) {
  else{
     console.log("grade='fail'");
  }
-//
+////
    
 
   

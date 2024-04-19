@@ -20,7 +20,7 @@ console.log(num5)
 num6 = 53325467786855742135675548576595534n +4643n
 console.log(num6)
 
-num7 = 45.765
+num7= 45.765
 num8 = parseInt(num7)
 console.log(num8)
 
